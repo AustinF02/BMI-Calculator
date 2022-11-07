@@ -4,7 +4,7 @@
 This program creates GUI for BMI Calculator.
 
 ## This python program uses:
-- ui creator 
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 - pyQt5
 - os
 - sys
