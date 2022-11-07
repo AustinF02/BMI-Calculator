@@ -31,3 +31,5 @@ This program creates GUI for BMI Calculator.
 
 <img width="341" alt="Screen Shot 0004-10-24 at 5 05 56 PM" src="https://user-images.githubusercontent.com/108591389/197641341-061f47ad-5506-4afc-9019-327511f63d33.png">
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
