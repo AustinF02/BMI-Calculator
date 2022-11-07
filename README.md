@@ -1,4 +1,4 @@
-# BMI-Calculator
+# BMI-Calculator. [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 <img src="https://user-images.githubusercontent.com/108591389/197639303-3fa795b1-a063-4f49-97ed-1013361740bb.jpg" width="100" height="100"> 
 This program creates GUI for BMI Calculator.
@@ -30,6 +30,8 @@ This program creates GUI for BMI Calculator.
 ###### result of regular input
 
 <img width="341" alt="Screen Shot 0004-10-24 at 5 05 56 PM" src="https://user-images.githubusercontent.com/108591389/197641341-061f47ad-5506-4afc-9019-327511f63d33.png">
+
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
